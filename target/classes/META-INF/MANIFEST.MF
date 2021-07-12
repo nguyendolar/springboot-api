@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 15.0.1
+Implementation-Title: webblog
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: webblog
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/webblog/
+Created-By: Maven Integration for Eclipse
+
